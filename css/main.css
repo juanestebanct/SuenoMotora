@@ -63,27 +63,27 @@ display: block;
 @media only screen  and (max-width: 800px) {
 .Logo {
 display: block;
-right: 23px;
+width:50px ;
+top: 5px;
+right: 65px;
 }
 .centerLogo{
   display: none;
 }
 .index{
-  height: 100px;
+  height: 60px;
 }
-.index a {
-  text-decoration: none;
-  padding: 29px 43px;
-  font-size: 40px;
+.index a{
+    padding: 16px 20px;
 }
+
 .Texto{
   margin-top: 80px;
 }
-.Logo img {
-    position: absolute;
-    top: -30px;
-    width: 218px;
-    height: 168px;
+.Logo img{
+  position: absolute;
+  width: 116px;
+  height: 116px;
 }
 }
 
